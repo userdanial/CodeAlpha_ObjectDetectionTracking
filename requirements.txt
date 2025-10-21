@@ -1,0 +1,7 @@
+opencv-python
+ultralytics
+numpy
+streamlit
+torch
+torchvision
+filterpy     # used for SORT tracker (Kalman Filter)
